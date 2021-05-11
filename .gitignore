@@ -1,3 +1,4 @@
 ScrapingTwintEnv
 .DS_Store
 .ipynb_checkpoints/
+*.xlsx
